@@ -1,3 +1,3 @@
 # weather-app
 react 1st project
-author-prasad ingale
+author-prasad ingale dev
